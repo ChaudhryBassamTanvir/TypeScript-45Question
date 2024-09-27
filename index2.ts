@@ -1,7 +1,7 @@
 // let a="pakistan"
 // a=9
 // console.log(a)
-// const a =5
+const a =5
 // a++
 // console.log(a)
 
