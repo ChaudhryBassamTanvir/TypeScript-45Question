@@ -32,11 +32,11 @@
 //     }
 // }
 
-// var f:(string)=>string;
-// f=x=>'('+x+')';
-// var h:((string)=>string)[]
-// h=[]
-// h.push(f)
-// console.log(h[0]("h"));
+var f:(arg0: string)=>string;
+f=x=>'('+x+')';
+var h:((arg0: string)=>string)[]
+h=[]
+h.push(f)
+console.log(h[0]("h"));
 
 
