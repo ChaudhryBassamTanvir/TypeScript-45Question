@@ -5,11 +5,11 @@
 // a++
 // console.log(a)
 
-// let myname=<any>{id:1,name:"b"}
-//  myname={id:1,name:"b"}
-//  myname={id:1,name:"b",gender:false}
-//  myname={id:1,gender:false}
-//  console.log("bassam");
+let myname=<any>{id:1,name:"b"}
+ myname={id:1,name:"b"}
+ myname={id:1,name:"b",gender:false}
+ myname={id:1,gender:false}
+ console.log("bassam");
  
 
 let c=((a,b)=>++a)(1,2);
