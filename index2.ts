@@ -2,7 +2,7 @@
 // a=9
 // console.log(a)
 const a =5
-// a++
+a++
 // console.log(a)
 
 let myname=<any>{id:1,name:"b"}
