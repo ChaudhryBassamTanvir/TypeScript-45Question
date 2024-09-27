@@ -723,7 +723,9 @@ let   info:{[key:string]:string}={
     
    
 }
+
 console.log(cars("Toyota","German","Color","Blue","Year","2021"));
+
 
 
 
