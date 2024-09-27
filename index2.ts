@@ -19,7 +19,7 @@ var col:string=Color[2]
 console.log(col);
 function pickCard(x: { suit: string; card: number; }[]): number;
 function pickCard(x: number): { suit: string; card: number; };
-function pickCard(x): any {
+function pickCard(x:any): any {
     if (typeof x === "object") {
         var pickedCard = Math.floor(Math.random() * x.length);
         return pickedCard;
@@ -27,7 +27,7 @@ function pickCard(x): any {
         var pickedSuit = Math.floor(x / 13);
         return { suit: suits[pickedSuit], card: x % 13 };
     }
-// }
+}
 
 var f:(arg0: string)=>string;
 f=x=>'('+x+')';
