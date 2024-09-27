@@ -36,4 +36,4 @@
 // h.push(f)
 // console.log(h[0]("h"));
 
-var my=f=>{this.x ="x"}
+// var my=f=>{this.x ="x"}
