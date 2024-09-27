@@ -1,9 +1,9 @@
-// let a="pakistan"
-// a=9
-// console.log(a)
-const a =5
-a++
+let a="pakistan"
+
 console.log(a)
+let b =5
+b++
+console.log(b)
 
 let myname=<any>{id:1,name:"b"}
  myname={id:1,name:"b"}
