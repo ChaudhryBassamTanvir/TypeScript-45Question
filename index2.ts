@@ -1,3 +1,6 @@
+
+
+
 // let a="pakistan"
 // a=9
 // console.log(a)
@@ -36,4 +39,4 @@
 // h.push(f)
 // console.log(h[0]("h"));
 
-// var my=f=>{this.x ="x"}
+
