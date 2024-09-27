@@ -3,7 +3,7 @@
 // console.log(a)
 const a =5
 a++
-// console.log(a)
+console.log(a)
 
 let myname=<any>{id:1,name:"b"}
  myname={id:1,name:"b"}
